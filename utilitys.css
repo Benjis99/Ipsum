@@ -1,0 +1,180 @@
+
+div.overline{
+    width: 1915px;
+    height: 100px;
+    border: 1px solid rgb(144, 144, 144);
+
+    border-left: rgb(144, 144, 144);
+    border-right: rgb(144, 144, 144);
+}
+
+p.time{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 0px;
+    font-size:29px;
+    
+}
+
+p.overtextleft{
+    text-align: left;
+    margin-top: 0px;
+    font-size:12px;
+    
+}
+p.overtextright{
+    text-align: right;
+    margin-top: -25px;
+    font-size:12px;
+}
+
+div.topsection{
+    width: 200px;
+    height: 120px;
+    padding-top: 50px;
+
+    border: 1px solid rgb(144, 144, 144);
+
+}
+.container{
+    
+    display: flex;
+    margin-top: 15px;
+}
+
+div.middlecontainer{
+   
+    width: 1000px;
+    height: 900px;
+
+    border: 1px solid rgb(255, 0, 0);
+    
+    
+
+}
+
+
+
+div.leftside{
+    
+    margin-right: 1px;
+    width: 450px;
+    height: 1150px;
+    border: 1px solid rgb(255, 0, 179);
+
+}
+
+div.rightside{
+    
+    margin-left: 1px;
+    width: 450px;
+    height: 1150px;
+    border: 1px solid rgb(172, 169, 0);
+ 
+}
+
+div.leftsideshort{
+    
+    margin-top: 950px;
+    width: 449px;
+    height: 300px;
+    border: 1px solid rgb(255, 0, 242);
+
+    background-color: aliceblue;
+
+
+}
+
+div.pictureframe{
+    margin-left: 150px;
+    width: 400px;
+    height: 450px;
+    
+    border: 1px solid rgba(144, 144, 144, 0);
+
+}
+
+img{
+    
+    width: 699;
+    height: 449px;
+    
+}
+
+div.textframe{
+
+    width: 673px;
+    height: 440px;
+    
+    border: 1px solid rgb(0, 17, 255);
+    background-color: aliceblue;
+ 
+}
+
+p.truemodern{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+p.undertext{
+    font-size: 14px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+p.rightside{
+    font-size: 14px;
+    font-style: italic;
+    text-align: right;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+p.ateam{
+    font-size: 14px;
+    font-style: italic;
+    font-weight: bold;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+div.lefttext{
+    
+    width: 400px;
+    height: 850px;
+    border: 1px solid rgb(255, 0, 85);
+    margin-left: 20px;
+    margin-bottom: -850px;
+   
+    background-color: aliceblue;
+}
+div.righttext{
+    
+    width: 400px;
+    height: 1150px;
+    border: 1px solid rgb(255, 145, 0);
+    margin-left: 35px;
+    background-color: aliceblue;
+
+}
+
+div.bottomframe{
+    margin-top: 130px;
+    width: 673px;
+    height: 280px;
+    
+    border: 1px solid rgb(245, 19, 19);
+    background-color: aliceblue;
+}
+
+div.leftsideshortbox{
+    margin-top: -300px;
+    margin-left: 18px;
+    width: 400px;
+    height: 290px;
+    border: 1px solid rgb(0, 224, 37);
+    border: none;
+    
+}
